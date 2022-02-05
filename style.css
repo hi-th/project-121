@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+
+#head {
+    background-color: green;
+    width: 35%;
+    border-radius: 50px;
+    color:#f5f5f5;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.h5 {
+    border-radius: 50px;
+}
+
+#result1 {
+    margin: 10px;
+}
+
+.test_image_and_result {
+    background-color: grey;
+    width: 1870px;;
+    height: 400px;
+    border-radius: 50px;
+}
+
+ol{
+    list-style: none;
+}
+
+#bottle {
+    height: 300px;
+}
